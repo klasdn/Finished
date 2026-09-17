@@ -1,6 +1,6 @@
 To use it, first install Django through pip install Django
-
 Go to RSI settings and change the email password and user variables
+Run python manage.py runserver to run it locally
 
 Bugs: 
 Signature is not cleared after hitting submit 
